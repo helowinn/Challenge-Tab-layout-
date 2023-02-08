@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Challenge Tablayout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Challenge Tablayout</string>
+    <string name="chat">Chat</string>
+    <string name="calls">Calls</string>
+    <string name="status">Status</string>
+    <string name="date">07/02/2023</string>
+</resources>
